@@ -12,4 +12,8 @@ function coolFunc() {
   return 3 + 3
 }
 
+
+function coolFunc() {
+  return 3 + 4
+}
 megaCool();
